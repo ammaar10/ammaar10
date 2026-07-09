@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @ammaar10
+Hey, I'm Ammaar 👋
 
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: INSTAGRAM = ammaarnawaaz, Gmail = nammaar1@gmail.com  
+🇱🇰 CS student | React dev | Building & breaking things to learn 😝
 
-<!---
-ammaar10/ammaar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Second-year Computer Science student in Colombo, self-teaching full-stack web development alongside my degree. I learn by shipping projects, not just watching tutorials.
+
+🛠️ What I'm working with
+
+React JavaScript HTML5 CSS3 React Router REST APIs Git
+
+
+🚀 Projects
+
+Monarch Academy — Landing page for a tutoring business. Responsive design, smooth scroll, mobile nav.
+Serendib Table — Restaurant landing page. CSS Grid layout, mobile-first.
+To-Do App — React app with add/delete/clear-all functionality.
+Sports App (in progress) — Multi-page React app: quiz, live score tracker, player card generator.
+
+
+📈 Currently
+
+Deepening React (hooks, routing, API integration)
+Picking up Data Structures & Algorithms
+Building toward internship-ready portfolio
