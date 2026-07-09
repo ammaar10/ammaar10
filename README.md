@@ -11,10 +11,10 @@ React JavaScript HTML5 CSS3 React Router REST APIs Git
 
 🚀 Projects
 
-Monarch Academy — Landing page for a tutoring business. Responsive design, smooth scroll, mobile nav.
-Serendib Table — Restaurant landing page. CSS Grid layout, mobile-first.
-To-Do App — React app with add/delete/clear-all functionality.
-Sports App (in progress) — Multi-page React app: quiz, live score tracker, player card generator.
+Monarch Academy - Landing page for a tutoring business. Responsive design, smooth scroll, mobile nav.
+Serendib Table - Restaurant landing page. CSS Grid layout, mobile-first.
+To-Do App - React app with add/delete/clear-all functionality.
+Sports App (in progress) - Multi-page React app: quiz, live score tracker, player card generator.
 
 
 📈 Currently
